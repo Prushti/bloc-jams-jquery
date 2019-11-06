@@ -2,6 +2,8 @@ Bloc Jams
 
 A web based media player application coded using the jQuery framework library.
 
+
+
 Features
 
 Web-based simplicity
